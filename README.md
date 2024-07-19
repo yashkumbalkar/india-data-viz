@@ -1,4 +1,4 @@
-**Deployed App on Streamlit link :-** [click here](https://india-data-viz-b12.streamlit.app/)
+## **Deployed App on Streamlit link :-** [click here](https://india-data-viz-b12.streamlit.app/)
 
 # India Census Data 2011 Visualization Project
 
